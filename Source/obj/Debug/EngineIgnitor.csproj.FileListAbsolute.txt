@@ -49,6 +49,6 @@ D:\Users\jbb\github\EngineIgnitor\Source\obj\Debug\EngineIgnitor.csproj.CoreComp
 D:\Users\jbb\github\EngineIgnitor\Source\obj\Debug\EngineIgnitor.csproj.CopyComplete
 D:\Users\jbb\github\EngineIgnitor\Source\bin\Debug\EngineIgnitorReignited.dll
 D:\Users\jbb\github\EngineIgnitor\Source\bin\Debug\EngineIgnitorReignited.pdb
-D:\Users\jbb\github\EngineIgnitor\Source\obj\Debug\EngineIgnitor.csprojAssemblyReference.cache
 D:\Users\jbb\github\EngineIgnitor\Source\obj\Debug\EngineIgnitorReignited.dll
 D:\Users\jbb\github\EngineIgnitor\Source\obj\Debug\EngineIgnitorReignited.pdb
+D:\Users\jbb\github\EngineIgnitor\Source\obj\Debug\EngineIgnitor.csproj.AssemblyReference.cache

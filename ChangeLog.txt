@@ -1,6 +1,6 @@
 ChangeLog
 
-1.3.7.4 (unreleased)
+1.3.7.4 
 	Added patch by @JeromeHeretic to fix the updated updated Swivel and Reliant engines
 	
 1.3.7.3
