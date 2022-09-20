@@ -411,7 +411,7 @@ namespace EngineIgnitor
                     if (IgnitionsRemained > 0 || IgnitionsRemained == -1)
                     {
                         double ec = 0;
-                        if (EnoughECforIgnition())
+                        if (HighLogic.CurrentGame.Parameters.CustomParams<EI>().requireECforIgnition && EnoughECforIgnition())
                         {
 
                             ec = part.RequestResource(ecId, (double)ECforIgnition);

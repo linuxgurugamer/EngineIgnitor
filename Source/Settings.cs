@@ -34,6 +34,9 @@ namespace EngineIgnitor
         [GameParameters.CustomParameterUI("Use Ullage simulation", toolTip = "If enabled, some engines will not fire if fuel is unstable")]
         public bool useUllage = true;
 
+        [GameParameters.CustomParameterUI("Require EC for ignition", toolTip = "If enabled, engines will require a certain amount of EC for ignition")]
+        public bool requireECforIgnition = true;
+
 
 
 

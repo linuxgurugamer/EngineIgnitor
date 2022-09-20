@@ -1,5 +1,13 @@
 ChangeLog
 
+1.3.7.5
+	Fixed typos in the MM_Stock_MakingHistory.cfg file for the following engines (incorrect case of first letter):
+		LiquidEngineKE-1
+		LiquidEngineRV
+		LiquidEngineRK-7
+	Added new setting to be able to disable the need for EC for ignition (in Setting page)
+
+
 1.3.7.4 
 	Added patch by @JeromeHeretic to fix the updated updated Swivel and Reliant engines
 	
