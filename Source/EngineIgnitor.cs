@@ -408,7 +408,7 @@ namespace EngineIgnitor
                     ", MultiModeEngine: " + MultiModeEngine + ", CurrentActiveMode: " + CurrentActiveMode());
                 if (!MultiModeEngine || (MultiModeEngine && !OtherEngineModeActive()) || CurrentActiveMode() == EngineIndex)
                 {
-                    if (IgnitionsRemained > 0 || IgnitionsRemained == -1)
+                    if (IgnitionsRemained > 0 || IgnitionsRemained <= -1)
                     {
                         double ec = 0;
                         if (HighLogic.CurrentGame.Parameters.CustomParams<EI>().requireECforIgnition && EnoughECforIgnition())
