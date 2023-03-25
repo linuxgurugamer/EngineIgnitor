@@ -1,5 +1,8 @@
 ChangeLog
 
+1.3.7.6
+	Thanks to github user @SiCaRiO31 for this:
+		Changed requirements for ignitions to work when ignitionsremained are negative numbers. Infinite ignition engines only work once because when they ignite, the remaining ignitions drop from -1 (infinite) to -2 (?¿), meaning they act like they no longer have any ignitions available.
 1.3.7.5
 	Fixed typos in the MM_Stock_MakingHistory.cfg file for the following engines (incorrect case of first letter):
 		LiquidEngineKE-1
