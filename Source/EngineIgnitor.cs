@@ -423,7 +423,10 @@ namespace EngineIgnitor
                             }
                         }
 
-                        IgnitionsRemained--;
+                        if (IgnitionsRemained != -1)
+                        {
+                            IgnitionsRemained--;
+                        }
                     }
                     else
                     {
