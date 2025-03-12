@@ -52,3 +52,11 @@ D:\Users\jbb\github\EngineIgnitor\Source\bin\Debug\EngineIgnitorReignited.pdb
 D:\Users\jbb\github\EngineIgnitor\Source\obj\Debug\EngineIgnitorReignited.dll
 D:\Users\jbb\github\EngineIgnitor\Source\obj\Debug\EngineIgnitorReignited.pdb
 D:\Users\jbb\github\EngineIgnitor\Source\obj\Debug\EngineIgnitor.csproj.AssemblyReference.cache
+D:\Users\jbb\github\KSP-1-Mods\EngineIgnitor\Source\bin\Debug\EngineIgnitorReignited.dll
+D:\Users\jbb\github\KSP-1-Mods\EngineIgnitor\Source\bin\Debug\EngineIgnitorReignited.pdb
+D:\Users\jbb\github\KSP-1-Mods\EngineIgnitor\Source\bin\Debug\ToolbarControl.dll
+D:\Users\jbb\github\KSP-1-Mods\EngineIgnitor\Source\obj\Debug\EngineIgnitor.csproj.AssemblyReference.cache
+D:\Users\jbb\github\KSP-1-Mods\EngineIgnitor\Source\obj\Debug\EngineIgnitor.csproj.CoreCompileInputs.cache
+D:\Users\jbb\github\KSP-1-Mods\EngineIgnitor\Source\obj\Debug\EngineIg.1DB61939.Up2Date
+D:\Users\jbb\github\KSP-1-Mods\EngineIgnitor\Source\obj\Debug\EngineIgnitorReignited.dll
+D:\Users\jbb\github\KSP-1-Mods\EngineIgnitor\Source\obj\Debug\EngineIgnitorReignited.pdb
